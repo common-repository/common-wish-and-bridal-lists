@@ -1,0 +1,246 @@
+# Copyright (C) 2018 Common Wish and Bridal Lists
+# This file is distributed under the same license as the Common Wish and Bridal Lists package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Common Wish and Bridal Lists\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/class-wb-bridal.php:31
+msgid "Bridal List"
+msgstr ""
+
+#: includes/class-wb-bridal.php:47
+msgid "Edit"
+msgstr ""
+
+#: includes/class-wb-bridal.php:52
+msgid "Wedding List of Bride and Groom"
+msgstr ""
+
+#: includes/class-wb-bridal.php:53
+msgid "soon"
+msgstr ""
+
+#: includes/class-wb-bridal.php:60
+msgid "Link for share:"
+msgstr ""
+
+#: includes/class-wb-bridal.php:68
+msgid "Bridal list available only for registered user. Please <a href=\"%1s\">register.</a>"
+msgstr ""
+
+#: includes/class-wb-bridal.php:114
+msgid "Can't update value"
+msgstr ""
+
+#: includes/class-wb-process.php:59
+msgid "Added from"
+msgstr ""
+
+#: includes/class-wb-setting.php:28
+msgid "Wish&Bridal List"
+msgstr ""
+
+#: includes/class-wb-setting.php:46
+msgid "Need more functional and support?"
+msgstr ""
+
+#: includes/class-wb-setting.php:48
+msgid "Support variable product"
+msgstr ""
+
+#: includes/class-wb-setting.php:49
+msgid "Add to list from archive page"
+msgstr ""
+
+#: includes/class-wb-setting.php:50
+msgid "Better UX"
+msgstr ""
+
+#: includes/class-wb-setting.php:51
+msgid "Buy PRO version!"
+msgstr ""
+
+#: includes/class-wb-setting.php:55
+msgid "General settings"
+msgstr ""
+
+#: includes/class-wb-setting.php:63
+msgid "\"Add to list\" link position"
+msgstr ""
+
+#: includes/class-wb-setting.php:64
+msgid "Choose a position for \"Add to Wish List\" link. If you decide to use \"bridal list\" functionality, \"Add to Bridal List\" link will be added next to \"Add to Wish List\" link."
+msgstr ""
+
+#: includes/class-wb-setting.php:74
+msgid "Enable/disable \"bridal list\" functionality"
+msgstr ""
+
+#: includes/class-wb-setting.php:75
+msgid "You can enable/disable \"bridal list\" functionality here."
+msgstr ""
+
+#: includes/class-wb-setting.php:84
+msgid "Pages"
+msgstr ""
+
+#: includes/class-wb-setting.php:84
+msgid "These pages need to be set so that Wish&Bridal List Plugin knows where display added product."
+msgstr ""
+
+#: includes/class-wb-setting.php:110
+msgid "Visual appearance"
+msgstr ""
+
+#: includes/class-wb-setting.php:113
+msgid "Style of Wish and Bridal Lists links (both states)"
+msgstr ""
+
+#: includes/class-wb-setting.php:114
+msgid "Choose one of prepared styles (icons) or choose \"Custom\" and define your fontawesome icons (%s a full list of fontawesome icons here %s)."
+msgstr ""
+
+#: includes/class-wb-setting.php:121
+msgid "Default (no icons)"
+msgstr ""
+
+#: includes/class-wb-setting.php:122
+msgid "Heart and Gift icons"
+msgstr ""
+
+#: includes/class-wb-setting.php:123
+msgid "Star and Gift icons"
+msgstr ""
+
+#: includes/class-wb-setting.php:124
+msgid "Heart and Venus-Mars icons"
+msgstr ""
+
+#: includes/class-wb-setting.php:125
+msgid "Custom (define custom fontawesome icons)"
+msgstr ""
+
+#: includes/class-wb-setting.php:129
+msgid "Example: \"fa-amazon\". Another example: \"fa-gift\""
+msgstr ""
+
+#: includes/class-wb-setting.php:132
+msgid "Custom fontawesome icon for Wish List link (added)"
+msgstr ""
+
+#: includes/class-wb-setting.php:139
+msgid "Custom fontawesome icon for Wish List link (not added)"
+msgstr ""
+
+#: includes/class-wb-setting.php:146
+msgid "Custom fontawesome icon for Bridal List link (added)"
+msgstr ""
+
+#: includes/class-wb-setting.php:153
+msgid "Custom fontawesome icon for Bridal List link (not added)"
+msgstr ""
+
+#: includes/class-wb-setting.php:173
+msgid "None (insert by php function by myself)"
+msgstr ""
+
+#: includes/class-wb-setting.php:177
+msgid "After Add to Cart"
+msgstr ""
+
+#: includes/class-wb-setting.php:181
+msgid "After Thumbnail"
+msgstr ""
+
+#: includes/class-wb-setting.php:185
+msgid "After Product Summary"
+msgstr ""
+
+#: includes/class-wb-wish.php:23
+msgid "Wish List"
+msgstr ""
+
+#: includes/base/trait-wb-ajax.php:59
+msgid "Error"
+msgstr ""
+
+#: includes/base/trait-wb-ajax.php:74
+msgid "Success"
+msgstr ""
+
+#: includes/base/trait-wb-ajax.php:104
+msgid "Product ID is not defined"
+msgstr ""
+
+#: includes/base/trait-wb-ajax.php:113
+msgid "Variable product not support"
+msgstr ""
+
+#: includes/base/trait-wb-ajax.php:156
+msgid "Can't process this item"
+msgstr ""
+
+#: includes/base/trait-wb-ajax.php:168
+msgid "Quantity is not defined"
+msgstr ""
+
+#: includes/base/trait-wb-ajax.php:192
+msgid "Can't change quantity"
+msgstr ""
+
+#: includes/base/trait-wb-ajax.php:204
+msgid "Successfully delete from list"
+msgstr ""
+
+#: includes/base/trait-wb-ajax.php:206
+msgid "Can't delete from list"
+msgstr ""
+
+#: includes/base/trait-wb-link.php:41
+msgid "Add to Wish List"
+msgstr ""
+
+#: includes/base/trait-wb-link.php:41
+msgid "Added to Wish List"
+msgstr ""
+
+#: includes/base/trait-wb-link.php:42
+msgid "Add to Bridal List"
+msgstr ""
+
+#: includes/base/trait-wb-link.php:42
+msgid "Added to Bridal List"
+msgstr ""
+
+#: includes/base/trait-wb-link.php:53
+msgid "Bridal list available only for registered user. Please register."
+msgstr ""
+
+#: includes/base/trait-wb-shortcode.php:148
+msgid "Remove product"
+msgstr ""
+
+#: includes/base/trait-wb-shortcode.php:213
+msgid "Need/Done:"
+msgstr ""
+
+#: includes/base/trait-wb-shortcode.php:225
+msgid "Set quantity"
+msgstr ""
+
+#: includes/base/trait-wb-shortcode.php:255
+msgid "Quantity:"
+msgstr ""
+
+#: includes/base/trait-wb-shortcode.php:263
+msgid "Already bought"
+msgstr ""

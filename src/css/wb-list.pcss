@@ -1,0 +1,123 @@
+.wb-remove {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor:pointer;
+  color: #aeaeae;
+  border: 1px solid #aeaeae;
+  border-radius: 30px;
+  font-size: 24px;
+  line-height: 0;
+  font-weight: 300;
+  height: 20px;
+  width: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  &::before {
+    content: "×";
+  }
+
+  &:hover {
+    color: #000;
+    border-color: #000;
+  }
+}
+
+.woocommerce-LoopProduct-link {
+  position: relative;
+}
+
+.wb-link {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+
+.wb-count-link, .wb-link {
+  & i {
+    padding-right: 5px;
+  }
+
+}
+
+.wb-count {
+
+  padding-left: 5px;
+
+  &::before {
+    content: '(';
+  }
+
+  &::after {
+    content: ')';
+  }
+
+}
+
+.wb-link-disabled {
+  cursor: not-allowed;
+  opacity: 0.6;
+  text-decoration: none;
+}
+
+.wb-bridal-title {
+  font-weight: 400;
+
+}
+
+.js-editable {
+  padding: 0 5px;
+  cursor: pointer;
+  color: #88BCF2;
+  border-bottom: 1px dashed #88BCF2;
+
+
+}
+
+.wb-bridal-share {
+  font-weight: bold;
+}
+
+input[name="temp"] {
+  width: 100px;
+  border: 1px solid #eee;
+  border-radius: 3px;
+  background: none;
+  box-shadow: 7px 7px 5px 0px rgba(0,0,0,0.4);
+  padding: 2px 10px;
+  box-sizing: border-box;
+  font-size: 0.8em;
+
+  &:focus {
+    background: none;
+  }
+}
+
+.wb-bridal-date.js-editable {
+  display: inline-block;
+  min-width: 200px;
+  text-align: center;
+
+}
+
+.wb-row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.wb-col {
+  width: 50%;
+  text-align: left;
+
+  & > .quantity {
+    display: inline-block;
+  }
+}
+
+.wb-item-text {
+  font-weight: bold;
+}
